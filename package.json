@@ -1,5 +1,5 @@
 {
-  "name": "smooth-dnd",
+  "name": "@cachepos/smooth-dnd",
   "version": "0.0.1",
   "description": "Drag and Drop library",
   "main": "./dist/index.js",
