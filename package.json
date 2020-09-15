@@ -1,5 +1,5 @@
 {
-  "name": "@cachepos/smooth-dnd",
+  "name": "@userbig/smooth-dnd",
   "version": "0.0.1",
   "description": "Drag and Drop library",
   "main": "./dist/index.js",
@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cachepos/smooth-dnd"
+    "url": "https://github.com/userbig/smooth-dnd"
   },
   "devDependencies": {
     "@babel/core": "7.3.4",
